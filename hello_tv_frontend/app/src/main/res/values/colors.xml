@@ -8,4 +8,13 @@
     <color name="tv_accent">#2196F3</color>
     <color name="tv_button_focused">#FFFFFF</color>
     <color name="tv_button_normal">#80FFFFFF</color>
+
+    <!-- Ocean Professional palette for Splash -->
+    <color name="ocean_primary">#2563EB</color>
+    <color name="ocean_secondary">#F59E0B</color>
+    <color name="ocean_background">#f9fafb</color>
+    <color name="ocean_surface">#ffffff</color>
+    <color name="ocean_text">#111827</color>
+    <color name="splash_gradient_start">#1A2563EB</color>
+    <color name="splash_gradient_end">#f9fafb</color>
 </resources>
